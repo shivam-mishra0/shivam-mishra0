@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Deep Learning**
 
-- 👯 I’m looking to collaborate on **Data science**
+- 👯 I’m looking to collaborate on **Ai Projects**
 
 - 📫 How to reach me **skm64060@gmail.com**
 
@@ -16,9 +16,9 @@ As a Intermediate of Data Science I work towards delighting customers at scale u
 1) Spam detection,
 2) Advance House Price prediction
 
-Coding Skills: SQL (Medium), Python (Medium) : Data Science Proficiency: Decision Trees, Random Forest, SVM
+Coding Skills: SQL (Medium), Python (Advance) : Data Science Proficiency: Decision Trees, Random Forest, SVM
 
-Tools and Technologies used: Python, iPython Notebook - Jupyter, SQL, Excel
+Tools and Technologies used: Python, Pytorch, Deeplearning, Computer Vision, Jupyter, SQL, Excel
 
 Techniques: Regression - Linear, Logistic, Ridge,Lasso (Regularized models), Hypothesis Testing (T-test, Chi-Square), K-means Clustering, Decision Trees, Random Forest, Support Vector Machines. You can connect with me for any opportunity.<h5>
   
