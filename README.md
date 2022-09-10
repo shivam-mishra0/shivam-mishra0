@@ -4,19 +4,23 @@
 
 - 🔭 I’m currently participating on **Kaggle**
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **MLOps** for deployment of ML and Deeplearning application in Productions.
 
 - 👯 I’m looking to collaborate on **Ai Projects**
 
 - 📫 How to reach me **skm64060@gmail.com**
 
-<h5> I'm a student, pursuing Bachelor of Technology in Computer Engineering from IIITDM Kurnool. I am a Data Science and Machine Learning starter with 6 months of experience in Analytics, Machine learning.
+<h5> I'm a student, pursuing Bachelor of Technology in Computer Engineering from IIITDM Kurnool. I am a having 6 months of experience in Deeplearning, Computer Vision, Machine learning and also having 1+ year of experience in Python programing langauge.
 
-As a Intermediate of Data Science I work towards delighting customers at scale using predictive modeling & machine learning. I have made data science projects pertaining to diverse business applications of predictive analytics such as:
-1) Spam detection,
+As a Intermediate of Deep Learning I work towards implementing the real time application which can be useful in solving real time problems. The following mention project shows my experties on deep learning:
+1) Real Time Logo Detection,
 2) Advance House Price prediction
+3) Research Papers related to YOLO (from scratch)
+4) Transfer Learning on YoloV5
+5) MLOps
+6) Optimized pytorch models by deploying using Deepstream, ONNX and TesnorRt 
 
-Coding Skills: SQL (Medium), Python (Advance) : Data Science Proficiency: Decision Trees, Random Forest, SVM
+Coding Skills: SQL (Medium), Python (Advance) : Data Science Proficiency: Nvidia Deepstrem: TesnorRt: Gpu Programming:
 
 Tools and Technologies used: Python, Pytorch, Deeplearning, Computer Vision, Jupyter, SQL, Excel
 
